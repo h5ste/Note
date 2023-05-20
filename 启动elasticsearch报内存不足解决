@@ -1,5 +1,6 @@
-
 修改elasticsearch和L安装目录下的config里的jvm.options
+
+
 # vim config/jvm.options
 -Xms1g
 -Xmx1g
